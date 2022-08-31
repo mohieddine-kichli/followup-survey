@@ -1,0 +1,120 @@
+html {
+
+    height: 100%;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+    background-color:rgb(230, 228, 229);
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+body {
+
+    background-color: rgb(171,171,171);
+    min-height: 100%;
+    margin:0
+
+}
+
+h1 {
+
+    background-color: white;
+    color:rgb(112,59,64);
+    font-family:Cambria;
+    text-align: center;
+    margin-left:-40px;
+    margin-right:-40px;
+    padding:20px
+}
+
+
+div {
+
+    
+    color: #9b230a;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 90%;
+    padding-bottom: 20px;
+    
+}
+
+.div_left {
+
+    float: left;
+}
+
+.div_right {
+
+    margin-left: 280px;
+   
+}
+
+.questions{
+
+    color:rgb(112,59,64);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.smalltext{
+    
+    color:#405879;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:x-small;
+}
+
+.text_inline{
+
+    display: inline-block;
+
+}
+
+input[type=date] {
+
+    width: 100%;
+    height:20px;
+}
+
+input[type=text] {
+
+    width:100%;
+    height:20px;
+}
+
+.div_button {
+
+    text-align: center;
+}
+
+input[type=button]{
+
+    background-color: grey;
+    color: white;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.horizontal-center {
+   
+    text-align: center;
+}
+
+textarea {
+
+    resize: none;
+    height: 120px;
+    width: 100%;
+ }
+
+.textarea-container{
+
+    padding-top: 40px;
+}
